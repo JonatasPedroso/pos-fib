@@ -23,5 +23,7 @@ public class Playground {
                 .sum();
 
         System.out.println(total);
+
+        JOptionPane.showMessageDialog(null, "Total somando é " + total);
     }
 }
