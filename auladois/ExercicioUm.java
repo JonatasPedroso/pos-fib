@@ -4,13 +4,12 @@ import javax.swing.*;
 import java.security.SecureRandom;
 import java.util.ArrayList;
 import java.util.List;
-import java.util.Random;
 import java.util.stream.Collectors;
 
 public class ExercicioUm {
     public static void main(String[] args) {
         List<Float> floatList = new ArrayList<>();
-        Random random = new SecureRandom();
+        SecureRandom random = new SecureRandom();
         int maxRandom = 1000;
 
         for (int i = 0; i < 10; i++) {
