@@ -33,3 +33,7 @@ M
 aulatres/utils/ValidaCPF.java,a\8\a8f047614e11a2eedff7148638b1be9da3829458
 R
 "aulatres/tests/ValidaCPFTests.java,f\0\f02acb275b54628426f6655674bc19fb5a3f20cb
+F
+aulaquatro/Cartas.java,4\8\48795069576143eb7250639a044fe75c01e2256e
+K
+aulaquatro/CartasTests.java,6\1\61bac036126060e126469661760c2643393793e7
